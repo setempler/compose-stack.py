@@ -1,0 +1,11 @@
+*.pyc
+/build
+/dist
+/*.egg-info
+/*.egg
+/*.pyenv
+/docs/_build
+/docs/_autosummary
+/cs/_version.py
+.coverage
+.vscode

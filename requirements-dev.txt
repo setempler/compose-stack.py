@@ -1,0 +1,11 @@
+pytest
+twine
+travis
+build
+codecov
+pytest-cov
+sphinx
+sphinxcontrib-napoleon
+m2r2
+sphinx-exec-code
+setuptools-scm

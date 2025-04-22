@@ -1,0 +1,11 @@
+# pyproject.toml
+
+[build-system]
+requires = ["setuptools>=64", "wheel", "setuptools_scm>=8"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools_scm]
+version_file = "cs/_version.py"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,6 @@
+{
+    "example_list": [1, 2, 3],
+    "example_float": 3.14,
+    "example_string": "hello, world!",
+    "example_none": null
+}
