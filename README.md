@@ -4,7 +4,7 @@
 
 Ever wondered how to make it more feasible managing multiple **docker compose** stacks at once?
 
-Use `cs` aka docker *compose stack* control tool. 
+Use `cs` aka docker *compose stack* control tool provided with this repository.
 
 For the impatient, start with the [Installation](#-installation) and [Quick Start](#-quick-start) chapters below.
 
@@ -12,7 +12,7 @@ For the impatient, start with the [Installation](#-installation) and [Quick Star
 
 Clone the repository.
 
-Follow the instructions in [Development](#-development) section.
+Follow the instructions in [Developing](#-developing) section.
 
 ## 🎬 Quick Start
 
